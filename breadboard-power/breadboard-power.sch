@@ -8,11 +8,11 @@ Sheet 1 1
 Title "Bread-Board Power Supply"
 Date "2020-02-08"
 Rev "1"
-Comp "Pro4tech"
+Comp ""
 Comment1 "EDSM Practical"
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment2 "Electronics and Telecommunication Departement"
+Comment3 "171104067"
+Comment4 "Pritesh Naik"
 $EndDescr
 $Comp
 L Connector:Barrel_Jack J2
