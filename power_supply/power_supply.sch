@@ -1,17 +1,18 @@
 EESchema Schematic File Version 4
+LIBS:power_supply-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
+Title "Breadboard Power Supply"
+Date "2020-02-02"
 Rev ""
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment1 "ESDM Practicals"
+Comment2 "Electronics and Telecommunication"
+Comment3 "171104067"
+Comment4 "Pritesh Naik"
 $EndDescr
 $Comp
 L Device:C C1
